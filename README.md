@@ -6,7 +6,7 @@
 <p>Welcome to my page under development! ⛏️</p>
 I'm Felipe, Frontend Developer Student from 📍 Rio de Janeiro, 🇧🇷.
 
-
+<br>
 ![felipeCadena GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeCadena&show_icons=true&theme=tokyonight)
 
 <h2>Technologies 👨🏻‍💻</h2>
