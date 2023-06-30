@@ -17,5 +17,5 @@ I'm Felipe, Frontend Developer Student from 📍 Rio de Janeiro, 🇧🇷.
 
 <h2>Where to find me</h2>
 
-<a href="https://www.linkedin.com/in/felipe-caden/" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/8b9dd2810a23cfd017e56fa405a2fd97bebfa76ff2946cd959802e3cc773632d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373742353f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/felipecadena"><img alt="GitHub" src="https://camo.githubusercontent.com/69eb5120470448f8cc5c2f8b647ddf7e3ef46ca0b56fb506ee83a2ab9ba02c6f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d40616c77696e772d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-@felipecaden?style=flat-square&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;"></a>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/felipecadena)](https://github.com/felipecadena)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-caden/)](https://www.linkedin.com/in/felipe-caden/)
