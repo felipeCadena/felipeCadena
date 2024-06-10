@@ -1,11 +1,28 @@
 <!--
 **felipeCadena/felipeCadena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1> 👋 Hey! Nice to see you.</h1>
+<h1> 👋 Olá! Me chamo Felipe Cadena!</h1>
 
-<p>Welcome to my page under development! ⛏️</p>
+<p>Seja bem vindo(a)!</p>
 
-<p>I'm Felipe, Frontend Developer from 📍 Rio de Janeiro, 🇧🇷.</p>
+<p>Trabalho com desenvolvedor fullstack na 4tuna Studio, alocado em dois projetos:</p>
+
+<h2>⇒ IGO Ticket</h2>
+<p>Um site de venda de tickets/ingressos para eventos com login/cadastro, pagamento via cartão e pix, geração de ingresso com QR Code e área de produtor para validação de ingressos via leitor de QR Code.</p>
+
+- Manutenção e correção de bugs identificados pelo Product Manager e Product Owner
+- Estilização da aplicação de acordo com o design do site utilizando Bootstrap.
+- Documentação de processos, features e levantamento do ambiente
+- Implementação de features como autenticação de usuários, validação de ingresso e permissões de usuário.
+- Implementação e manutenção de gateways de pagamento como Pix (Asaas) e Stripe.
+- Experiência com metodologia ágil, com daily, planning e review.
+
+<h2>⇒ Kids2Gether</h2>
+<p>Site e aplicativo com dicas de viagem em família com filhos e marketplace com serviços de viagem.</p>
+
+- Manutenção e correção de bugs identificados no site e no app.
+- Implementação de novas telas e funcionalidades no site e especialmente no app.
+- Documentação de processos, features e levantamento do ambiente.
 
 ![felipeCadena GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeCadena&show_icons=true&theme=tokyonight)
 
