@@ -24,6 +24,8 @@
 - Implementação de novas telas e funcionalidades no site e especialmente no app.
 - Documentação de processos, features e levantamento do ambiente.
 
+  </br>
+
 ![felipeCadena GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeCadena&show_icons=true&theme=tokyonight)
 
 <h2>Technologies 👨🏻‍💻</h2>
