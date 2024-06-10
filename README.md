@@ -1,7 +1,7 @@
 <!--
 **felipeCadena/felipeCadena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1> 👋 Olá! Me chamo Felipe Cadena!</h1>
+<h1> 👋 Olá, me chamo Felipe Cadena!</h1>
 
 <p>Seja bem vindo(a)!</p>
 
@@ -23,8 +23,6 @@
 - Manutenção e correção de bugs identificados no site e no app.
 - Implementação de novas telas e funcionalidades no site e especialmente no app.
 - Documentação de processos, features e levantamento do ambiente.
-
-  </br>
 
 ![felipeCadena GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeCadena&show_icons=true&theme=tokyonight)
 
