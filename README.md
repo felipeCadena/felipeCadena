@@ -13,7 +13,7 @@
 - Implementação de novos projetos internos e funcionalidades nos projetos já existentes.
 - Documentação de processos, features e levantamento do ambiente.
 
-<h2>⇒ 4tuna Studio. Alocado no projeto: Kids2Gether</h2>
+<h2>⇒ <b>4tuna Studio:</b>Alocado no projeto: Kids2Gether</h2>
 <p>Site e aplicativo com dicas de viagem em família com filhos e marketplace com serviços de viagem.</p>
 
 - Manutenção e correção de bugs identificados no site e no app.
