@@ -5,19 +5,15 @@
 
 <p>Seja bem vindo(a)!</p>
 
-<p>Trabalho com desenvolvedor fullstack na 4tuna Studio, alocado em dois projetos:</p>
+<p>Trabalho com desenvolvedor fullstack na 4tuna Studio e na 123Projetei:</p>
 
-<h2>⇒ IGO Ticket</h2>
-<p>Um site de venda de tickets/ingressos para eventos com login/cadastro, pagamento via cartão e pix, geração de ingresso com QR Code e área de produtor para validação de ingressos via leitor de QR Code.</p>
+<h2>⇒ 123Projetei</h2>
 
-- Manutenção e correção de bugs identificados pelo Product Manager e Product Owner
-- Estilização da aplicação de acordo com o design do site utilizando Bootstrap.
-- Documentação de processos, features e levantamento do ambiente
-- Implementação de features como autenticação de usuários, validação de ingresso e permissões de usuário.
-- Implementação e manutenção de gateways de pagamento como Pix (Asaas) e Stripe.
-- Experiência com metodologia ágil, com daily, planning e review.
+- Manutenção e correção de bugs identificados nos diversos sistemas internos e o ecommerce da empresa.
+- Implementação de novos projetos internos e funcionalidades nos projetos já existentes.
+- Documentação de processos, features e levantamento do ambiente.
 
-<h2>⇒ Kids2Gether</h2>
+<h2>⇒ 4tuna Studio. Alocado no projeto: Kids2Gether</h2>
 <p>Site e aplicativo com dicas de viagem em família com filhos e marketplace com serviços de viagem.</p>
 
 - Manutenção e correção de bugs identificados no site e no app.
