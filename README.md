@@ -5,20 +5,14 @@
 
 <p>Seja bem vindo(a)!</p>
 
-<p>Trabalho com desenvolvedor fullstack na 4tuna Studio e na 123Projetei:</p>
+<p>Trabalho com desenvolvedor fullstack na 123Projetei:</p>
 
 <h2>⇒ 123Projetei</h2>
 
 - Manutenção e correção de bugs identificados nos diversos sistemas internos e o ecommerce da empresa.
 - Implementação de novos projetos internos e funcionalidades nos projetos já existentes.
 - Documentação de processos, features e levantamento do ambiente.
-
-<h2>⇒ 4tuna Studio - Alocado no projeto: Kids2Gether</h2>
-<p>Site e aplicativo com dicas de viagem em família com filhos e marketplace com serviços de viagem.</p>
-
-- Manutenção e correção de bugs identificados no site e no app.
-- Implementação de novas telas e funcionalidades no site e especialmente no app.
-- Documentação de processos, features e levantamento do ambiente.
+- Monitoramento da infraestrutura no GCP
 
 ![felipeCadena GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeCadena&show_icons=true&theme=tokyonight)
 
